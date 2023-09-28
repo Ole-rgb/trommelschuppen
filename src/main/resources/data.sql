@@ -1,0 +1,1 @@
+INSERT INTO userdb(id,username,email,dob) VALUES (1,'Ole', 'ole@gmail.com','2002-03-10'),(2,'Mette', 'mette@gmail.com','2003-03-23');
